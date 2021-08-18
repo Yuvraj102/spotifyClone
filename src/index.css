@@ -1,0 +1,8 @@
+/* below property says that wherever the scroll bar is hide it but keep the functionality */
+body::-webkit-scrollbar {
+  display: none;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
